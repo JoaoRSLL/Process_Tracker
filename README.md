@@ -34,10 +34,6 @@ tribunal.
 
 - Java
 - API Pública do Datajud (Elasticsearch DSL)
-- Banco de dados (A definir)
+- SQLite
 
-## Aviso
 
-Os dados exibidos são metadados públicos e podem ter defasagem em relação aos
-sistemas dos tribunais. Esta ferramenta não substitui a consulta oficial nem
-a conferência de prazos por um profissional habilitado.
