@@ -17,7 +17,7 @@ tribunal.
 ## Funcionalidades
 
 **Fase 1 (validação do backend)**
-- [ ] Consulta de processos por número via API do Datajud
+- [x] Consulta de processos por número via API do Datajud
 - [ ] Leitura e modelagem dos metadados (classe, assuntos, órgão julgador, movimentos)
 - [ ] Detecção de processos e movimentações novos
 - [ ] Armazenamento local em banco próprio (SQLite)
